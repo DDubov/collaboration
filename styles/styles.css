@@ -14,3 +14,12 @@ h2 {
     color: blueviolet;
     font-weight: bold;
 }
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: plum;
+}
+
+ol li{
+    color: purple;
+}
